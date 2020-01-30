@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema",
-  "id": "create-page",
+  "id": "lib",
   "type": "object",
   "properties": {
     "name": {
